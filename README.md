@@ -13,11 +13,12 @@
             <a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="40" height="40"/></a>
             <a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" width="40" height="40"/></a>
             <a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="40" height="40"/></a>
+            <a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/7/78/New_Replit_Logo.svg" width="40" height="40"/></a>
         </td>
     </tr>
     <tr>
 
-### Most used languages
+### Languages in my repositories
 
  <tr>
     </tr>
