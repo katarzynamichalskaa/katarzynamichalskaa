@@ -2,6 +2,9 @@
 
 ### Unity Developer/Python Bot Developer
 
+🔭 I’m currently working on my game "Battleships" in Unity
+🌱 I’m currently learning how clouds work and how can I use them regarding bots
+
 ### Tools and languages
 <td></td>
         </td>
@@ -9,6 +12,7 @@
             <a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="40" height="40"/></a>
             <a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="40" height="40"/></a>
             <a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" width="40" height="40"/></a>
+            <a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="40" height="40"/></a>
         </td>
     </tr>
     <tr>
