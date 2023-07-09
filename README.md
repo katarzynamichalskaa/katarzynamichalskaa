@@ -1,7 +1,5 @@
 ### Hi there!
-<table>
-    <tr>
-        <td>Tools and languages</td>
+<td>Tools and languages</td>
         <td>
             <a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Unity_Technologies_logo.svg" width="100" height="40"/></a>
             <a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="40" height="40"/></a>
