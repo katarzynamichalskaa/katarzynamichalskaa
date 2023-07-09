@@ -1,9 +1,14 @@
-# Hi there, I'm Katarzyna Michalska
+# Hi there, I'm Katarzyna Michalska!
 
 ### Unity Developer/Python Bot Developer
 
 - 🔭 I’m currently working on my game "Battleships" in Unity
 - 🌱 I’m currently learning how clouds work and how can I use them regarding bots
+
+### Contact me:
+
+<a href="https://www.linkedin.com/in/katarzyna-michalska-332185268/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40"/></a>
+<a href="https://www.instagram.com/ahakkk__/"><img src="https://vissport.pl/wp-content/uploads/2019/09/Instagram-logo-1-768x768.jpg" width="40" height="40"/></a>
 
 ### Tools and languages
 <td></td>
