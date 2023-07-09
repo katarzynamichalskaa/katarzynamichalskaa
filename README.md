@@ -18,7 +18,7 @@
     </tr>
     <tr>
 
-### Languages in my repositories
+### Some Github stats
 
  <tr>
     </tr>
