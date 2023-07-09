@@ -13,7 +13,7 @@
     </tr>
     <tr>
 
-### My GitHub Stats
+### Most used languages
 
  <tr>
     </tr>
