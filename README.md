@@ -2,7 +2,6 @@
 
 ![Unity_Technologies_logo svg](https://github.com/katarzynamichalskaa/katarzynamichalskaa/assets/92379328/1ebed525-cf7d-4873-8327-e10131bcac1c)
 ![pngegg](https://github.com/katarzynamichalskaa/katarzynamichalskaa/assets/92379328/afd01043-742c-4ad5-a3a6-735a205a0b3f)
-![pngwing com](https://github.com/katarzynamic![pngwing com](https://github.com/katarzynamichalskaa/katarzynamichalskaa/assets/92379328/64a8138a-42e6-46fa-9f4b-1adf68da6660)
 ![Python-logo-notext svg](https://github.com/katarzynamichalskaa/katarzynamichalskaa/assets/92379328/112cdb6c-11ac-4219-889f-d9efcf47c3bd)
 
 
