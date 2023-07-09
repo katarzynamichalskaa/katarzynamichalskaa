@@ -8,7 +8,7 @@
 ### Contact me:
 
 <a href="https://www.linkedin.com/in/katarzyna-michalska-332185268/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40"/></a>
-<a href="https://www.instagram.com/ahakkk__/"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2a/Instagram_logo.svg" width="40" height="40"/></a>
+<a href="https://www.instagram.com/ahakkk__/"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2a/Instagram_logo.svg" width="100" height="40"/></a>
 
 ### Tools and languages
 <td></td>
