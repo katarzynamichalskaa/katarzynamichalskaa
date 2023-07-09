@@ -2,8 +2,8 @@
 
 ### Unity Developer/Python Bot Developer
 
-🔭 I’m currently working on my game "Battleships" in Unity
-🌱 I’m currently learning how clouds work and how can I use them regarding bots
+- 🔭 I’m currently working on my game "Battleships" in Unity
+- 🌱 I’m currently learning how clouds work and how can I use them regarding bots
 
 ### Tools and languages
 <td></td>
