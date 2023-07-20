@@ -8,7 +8,7 @@
 ### Contact me:
 
 <a href="https://www.linkedin.com/in/katarzyna-michalska-332185268/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40"/></a>
-<a href="mailto:kate.michalska7@gmail.com"><img src="https://pl.wikipedia.org/wiki/Gmail#/media/Plik:Gmail_icon_(2020).svg" width="40" height="40"/></a>
+<a href="mailto:kate.michalska7@gmail.com"><img src="https://www.computerhope.com/jargon/g/gmail.png" width="40" height="40"/></a>
 
 ### Tools and languages
 <td></td>
