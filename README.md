@@ -28,7 +28,7 @@
  <tr>
     </tr>
     <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=katarzynamichalskaa&langs_count=10&layout=compact&hide=php,scss,css,html,batchfile,gherkin,freemarker,xslt,tsql,ruby"/>
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=katarzynamichalskaa&langs_count=10&layout=compact&hide=php,scss,css,html,batchfile,gherkin,freemarker,xslt,tsql,ruby"/>
         </td>
          <td>
             <img src="https://github-readme-streak-stats.herokuapp.com/?user=katarzynamichalskaa"/>
