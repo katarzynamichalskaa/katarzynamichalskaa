@@ -2,7 +2,7 @@
 
 ### Unity Developer/Python Bot Developer
 
-- 🔭 I’m currently working on my mobile game which will be available on Google Play.
+- 🔭 I’m currently working on my mobile game which will is available on Google Play.
 - 🌱 I’m currently learning how machine learning works. 
 
 ### Contact me:
