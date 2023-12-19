@@ -10,19 +10,6 @@
 <a href="https://www.linkedin.com/in/katarzyna-michalska-332185268/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40"/></a>
 <a href="mailto:kate.michalska7@gmail.com"><img src="https://www.computerhope.com/jargon/g/gmail.png" width="40" height="40"/></a>
 
-### Tools and languages
-<td></td>
-        </td>
-            <a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Unity_Technologies_logo.svg" width="100" height="40"/></a>
-            <a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="40" height="40"/></a>
-            <a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="40" height="40"/></a>
-            <a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" width="40" height="40"/></a>
-            <a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="40" height="40"/></a>
-            <a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/7/78/New_Replit_Logo.svg" width="40" height="40"/></a>
-        </td>
-    </tr>
-    <tr>
-
 ### Some Github stats
 
  <tr>
