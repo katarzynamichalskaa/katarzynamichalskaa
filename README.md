@@ -1,9 +1,6 @@
-# Hi there, I'm Katarzyna Michalska!
+# Hi, I'm Katarzyna!
 
-### Unity Developer/Python Bot Developer
-
-- 🔭 I’m currently working on my mobile game which will is available on Google Play.
-- 🌱 I’m currently learning how machine learning works. 
+### Unity Developer/Python Developer
 
 ### Contact me:
 
