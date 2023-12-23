@@ -1,6 +1,6 @@
 # Hi, I'm Katarzyna!
 
-### Unity Developer/Python Developer
+### Game Developer/Python Developer
 
 ### Contact me:
 
