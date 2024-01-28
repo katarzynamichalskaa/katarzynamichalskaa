@@ -1,7 +1,5 @@
 # Hi, I'm Katarzyna!
 
-### Game Developer/Python Developer
-
 ### Contact me:
 
 <a href="https://www.linkedin.com/in/katarzyna-michalska-332185268/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40"/></a>
